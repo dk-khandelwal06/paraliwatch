@@ -35,4 +35,6 @@ Thumbs.db
 # Large temporary datasets (processed public data is versioned)
 data/raw/*.csv
 *.log
+*.tsbuildinfo
+*.bak
 
