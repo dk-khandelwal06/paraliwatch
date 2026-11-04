@@ -28,7 +28,7 @@
 <p>
   <a href="https://github.com/dk-khandelwal06/paraliwatch"><strong>Repository</strong></a> ·
   <a href="https://paraliwatch.vercel.app/"><strong>Live App</strong></a> ·
-  <strong>Project Atlas — 007</strong>
+  <a href=""><strong>Demo Video</strong></a>
 </p>
 
 </div>
