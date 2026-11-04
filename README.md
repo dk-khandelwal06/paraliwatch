@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="ParaliWatch logo" width="120" />
 
-# 🌾 PARALIWATCH
+# 🌾 ParaliWatch
 
 ### Tracking Punjab's Paddy-Residue Fires from Orbit
 
