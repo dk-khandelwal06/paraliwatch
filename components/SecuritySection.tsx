@@ -124,3 +124,4 @@ export const SecuritySection: React.FC<SecuritySectionProps> = ({ summary }) => 
     </section>
   );
 };
+

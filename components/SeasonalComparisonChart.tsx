@@ -190,3 +190,4 @@ export const SeasonalComparisonChart: React.FC<SeasonalComparisonProps> = ({ dat
     </section>
   );
 };
+

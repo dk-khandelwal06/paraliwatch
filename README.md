@@ -135,3 +135,4 @@ ParaliWatch is designed for zero-config Vercel deployment:
 - **Active Fire Data:** NASA FIRMS / MODAPS (Suomi-NPP VIIRS 375m).
 - **Meteorological Data:** Open-Meteo Historical Weather API (CC BY 4.0).
 - **Code:** Open-source under MIT License.
+

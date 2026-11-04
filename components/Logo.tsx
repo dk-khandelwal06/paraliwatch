@@ -74,3 +74,4 @@ export const Logo: React.FC<LogoProps> = ({ showTagline = false, size = "md" }) 
     </div>
   );
 };
+

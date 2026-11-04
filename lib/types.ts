@@ -142,3 +142,4 @@ export interface EvaluationReport {
   };
   scientific_honesty_statement: string;
 }
+

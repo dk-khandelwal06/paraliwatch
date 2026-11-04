@@ -7,6 +7,9 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: false,
   },
+  generateBuildId: async () => {
+    return "paraliwatch-v1";
+  },
 };
 
 export default nextConfig;

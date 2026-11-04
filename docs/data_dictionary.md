@@ -48,3 +48,4 @@ Source: Open-Meteo Historical Weather API
 | `baseline_persistence` | Float | Baseline 1 prediction: $\hat{y}_{t+1} = y_t$ (tomorrow equals today) |
 | `baseline_rolling7d` | Float | Baseline 2 prediction: $\hat{y}_{t+1} = \frac{1}{7}\sum_{i=0}^6 y_{t-i}$ |
 | `skill_vs_persistence` | Float | Relative forecasting skill: $1 - \frac{\text{MAE}_{\text{model}}}{\text{MAE}_{\text{persistence}}}$ |
+

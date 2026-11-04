@@ -211,3 +211,4 @@ export const DailyActivityChart: React.FC<DailyActivityChartProps> = ({ data }) 
     </section>
   );
 };
+

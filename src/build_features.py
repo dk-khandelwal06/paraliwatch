@@ -104,3 +104,4 @@ def build_daily_features(
     df["season"] = pd.to_datetime(df["date"]).dt.year
     
     return df
+

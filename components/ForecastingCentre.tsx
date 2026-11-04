@@ -210,3 +210,4 @@ export const ForecastingCentre: React.FC<ForecastingCentreProps> = ({
     </section>
   );
 };
+

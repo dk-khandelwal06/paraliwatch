@@ -72,3 +72,4 @@ ParaliWatch decouples raw satellite ingestion and machine learning from client-s
 - **Zero Frontend Secrets:** No NASA FIRMS API key (`FIRMS_MAP_KEY`) is ever included in frontend code, environment variables for Next.js, or browser payloads.
 - **Serverless Resilience:** The Next.js frontend reads versioned JSON artifacts directly from `public/data/` or public raw GitHub URLs, ensuring the site never crashes even during external API maintenance.
 - **Geographic Boundary Clipping:** Prevents attribution errors by explicitly filtering out points in Pakistani Punjab west of the Radcliffe Line.
+

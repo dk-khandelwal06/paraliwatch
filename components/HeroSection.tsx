@@ -182,3 +182,4 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ summary }) => {
     </section>
   );
 };
+

@@ -92,6 +92,110 @@ body {
   height: 100%;
   border-radius: 0.75rem;
   z-index: 10;
+  background-color: var(--bg-surface-elevated) !important;
+  font-family: inherit;
+}
+
+/* OpenStreetMap Tile Filter Treatments by Theme */
+/* Light Mode: Natural, high-clarity geography */
+.map-tiles-osm-light {
+  filter: contrast(102%) saturate(98%);
+  transition: filter 0.3s ease;
+}
+
+/* Dark Mode: Sleek dark GIS theme; preserves text sharpness and road structures */
+.map-tiles-osm-dark {
+  filter: invert(100%) hue-rotate(180deg) brightness(85%) contrast(92%);
+  transition: filter 0.3s ease;
+}
+
+/* Dusk Mode: Warm earthen twilight cartography with balanced amber/sage contrast */
+.map-tiles-osm-dusk {
+  filter: sepia(35%) brightness(88%) contrast(105%) saturate(85%);
+  transition: filter 0.3s ease;
+}
+
+/* Satellite Imagery: Natural true-color orbital remote sensing view */
+.map-tiles-satellite {
+  filter: brightness(96%) contrast(108%);
+  transition: filter 0.3s ease;
+}
+
+/* Topographic Base Layer Treatments */
+.map-tiles-topo-light {
+  filter: contrast(100%);
+  transition: filter 0.3s ease;
+}
+.map-tiles-topo-dark {
+  filter: invert(100%) hue-rotate(180deg) brightness(82%) contrast(94%);
+  transition: filter 0.3s ease;
+}
+.map-tiles-topo-dusk {
+  filter: sepia(30%) brightness(86%) contrast(106%);
+  transition: filter 0.3s ease;
+}
+
+/* Themed Leaflet Popups */
+.leaflet-popup-content-wrapper {
+  background: var(--bg-surface) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.35) !important;
+  backdrop-filter: blur(8px);
+}
+.leaflet-popup-tip {
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--border-color) !important;
+}
+.leaflet-popup-content {
+  margin: 10px 12px !important;
+  line-height: 1.4 !important;
+}
+.leaflet-container a.leaflet-popup-close-button {
+  color: var(--text-muted) !important;
+  padding: 8px 8px 0 0 !important;
+}
+.leaflet-container a.leaflet-popup-close-button:hover {
+  color: var(--text-primary) !important;
+}
+
+/* Themed Zoom Controls */
+.leaflet-control-zoom {
+  border: 1px solid var(--border-color) !important;
+  border-radius: 0.5rem !important;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+.leaflet-control-zoom a {
+  background-color: var(--bg-surface) !important;
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--border-color) !important;
+  transition: background-color 0.2s, color 0.2s;
+}
+.leaflet-control-zoom a:hover {
+  background-color: var(--bg-surface-elevated) !important;
+  color: var(--accent-green) !important;
+}
+.leaflet-control-zoom a.leaflet-disabled {
+  background-color: var(--bg-surface) !important;
+  color: var(--text-muted) !important;
+  opacity: 0.5;
+}
+
+/* Map Attribution Styling */
+.leaflet-control-attribution {
+  background: var(--bg-surface-glass) !important;
+  color: var(--text-muted) !important;
+  border-radius: 4px;
+  padding: 2px 8px !important;
+  font-size: 10px !important;
+  border: 1px solid var(--border-color-subtle);
+  backdrop-filter: blur(4px);
+}
+.leaflet-control-attribution a {
+  color: var(--accent-green) !important;
+  text-decoration: underline;
 }
 
 /* Custom scrollbar */
@@ -109,3 +213,4 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-muted);
 }
+

@@ -58,3 +58,4 @@ export async function getForecastHistory(): Promise<ForecastHistoryData | null> 
 export async function getEvaluationReport(): Promise<EvaluationReport | null> {
   return fetchJson<EvaluationReport>("evaluation_report.json");
 }
+

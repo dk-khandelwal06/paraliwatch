@@ -62,3 +62,4 @@ export const SatelliteMap: React.FC<SatelliteMapProps> = ({
     </section>
   );
 };
+

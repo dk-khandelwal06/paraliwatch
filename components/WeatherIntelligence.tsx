@@ -167,3 +167,4 @@ export const WeatherIntelligence: React.FC<WeatherIntelligenceProps> = ({ weathe
     </section>
   );
 };
+
