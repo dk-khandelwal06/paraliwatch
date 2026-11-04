@@ -1,0 +1,1174 @@
+{
+  "2023": [
+    {
+      "day_of_season": 1,
+      "date": "2023-10-01",
+      "daily_count": 20,
+      "cumulative_count": 20
+    },
+    {
+      "day_of_season": 2,
+      "date": "2023-10-02",
+      "daily_count": 17,
+      "cumulative_count": 37
+    },
+    {
+      "day_of_season": 3,
+      "date": "2023-10-03",
+      "daily_count": 28,
+      "cumulative_count": 65
+    },
+    {
+      "day_of_season": 4,
+      "date": "2023-10-04",
+      "daily_count": 32,
+      "cumulative_count": 97
+    },
+    {
+      "day_of_season": 5,
+      "date": "2023-10-05",
+      "daily_count": 33,
+      "cumulative_count": 130
+    },
+    {
+      "day_of_season": 6,
+      "date": "2023-10-06",
+      "daily_count": 32,
+      "cumulative_count": 162
+    },
+    {
+      "day_of_season": 7,
+      "date": "2023-10-07",
+      "daily_count": 33,
+      "cumulative_count": 195
+    },
+    {
+      "day_of_season": 8,
+      "date": "2023-10-08",
+      "daily_count": 15,
+      "cumulative_count": 210
+    },
+    {
+      "day_of_season": 9,
+      "date": "2023-10-09",
+      "daily_count": 29,
+      "cumulative_count": 239
+    },
+    {
+      "day_of_season": 10,
+      "date": "2023-10-10",
+      "daily_count": 20,
+      "cumulative_count": 259
+    },
+    {
+      "day_of_season": 11,
+      "date": "2023-10-11",
+      "daily_count": 45,
+      "cumulative_count": 304
+    },
+    {
+      "day_of_season": 12,
+      "date": "2023-10-12",
+      "daily_count": 58,
+      "cumulative_count": 362
+    },
+    {
+      "day_of_season": 13,
+      "date": "2023-10-13",
+      "daily_count": 80,
+      "cumulative_count": 442
+    },
+    {
+      "day_of_season": 14,
+      "date": "2023-10-14",
+      "daily_count": 120,
+      "cumulative_count": 562
+    },
+    {
+      "day_of_season": 15,
+      "date": "2023-10-15",
+      "daily_count": 173,
+      "cumulative_count": 735
+    },
+    {
+      "day_of_season": 16,
+      "date": "2023-10-16",
+      "daily_count": 191,
+      "cumulative_count": 926
+    },
+    {
+      "day_of_season": 17,
+      "date": "2023-10-17",
+      "daily_count": 60,
+      "cumulative_count": 986
+    },
+    {
+      "day_of_season": 18,
+      "date": "2023-10-18",
+      "daily_count": 376,
+      "cumulative_count": 1362
+    },
+    {
+      "day_of_season": 19,
+      "date": "2023-10-19",
+      "daily_count": 581,
+      "cumulative_count": 1943
+    },
+    {
+      "day_of_season": 20,
+      "date": "2023-10-20",
+      "daily_count": 594,
+      "cumulative_count": 2537
+    },
+    {
+      "day_of_season": 21,
+      "date": "2023-10-21",
+      "daily_count": 677,
+      "cumulative_count": 3214
+    },
+    {
+      "day_of_season": 22,
+      "date": "2023-10-22",
+      "daily_count": 1222,
+      "cumulative_count": 4436
+    },
+    {
+      "day_of_season": 23,
+      "date": "2023-10-23",
+      "daily_count": 691,
+      "cumulative_count": 5127
+    },
+    {
+      "day_of_season": 24,
+      "date": "2023-10-24",
+      "daily_count": 1540,
+      "cumulative_count": 6667
+    },
+    {
+      "day_of_season": 25,
+      "date": "2023-10-25",
+      "daily_count": 1695,
+      "cumulative_count": 8362
+    },
+    {
+      "day_of_season": 26,
+      "date": "2023-10-26",
+      "daily_count": 1361,
+      "cumulative_count": 9723
+    },
+    {
+      "day_of_season": 27,
+      "date": "2023-10-27",
+      "daily_count": 2297,
+      "cumulative_count": 12020
+    },
+    {
+      "day_of_season": 28,
+      "date": "2023-10-28",
+      "daily_count": 2255,
+      "cumulative_count": 14275
+    },
+    {
+      "day_of_season": 29,
+      "date": "2023-10-29",
+      "daily_count": 2142,
+      "cumulative_count": 16417
+    },
+    {
+      "day_of_season": 30,
+      "date": "2023-10-30",
+      "daily_count": 1955,
+      "cumulative_count": 18372
+    },
+    {
+      "day_of_season": 31,
+      "date": "2023-10-31",
+      "daily_count": 2875,
+      "cumulative_count": 21247
+    },
+    {
+      "day_of_season": 32,
+      "date": "2023-11-01",
+      "daily_count": 2369,
+      "cumulative_count": 23616
+    },
+    {
+      "day_of_season": 33,
+      "date": "2023-11-02",
+      "daily_count": 2089,
+      "cumulative_count": 25705
+    },
+    {
+      "day_of_season": 34,
+      "date": "2023-11-03",
+      "daily_count": 2622,
+      "cumulative_count": 28327
+    },
+    {
+      "day_of_season": 35,
+      "date": "2023-11-04",
+      "daily_count": 2547,
+      "cumulative_count": 30874
+    },
+    {
+      "day_of_season": 36,
+      "date": "2023-11-05",
+      "daily_count": 2746,
+      "cumulative_count": 33620
+    },
+    {
+      "day_of_season": 37,
+      "date": "2023-11-06",
+      "daily_count": 2527,
+      "cumulative_count": 36147
+    },
+    {
+      "day_of_season": 38,
+      "date": "2023-11-07",
+      "daily_count": 3005,
+      "cumulative_count": 39152
+    },
+    {
+      "day_of_season": 39,
+      "date": "2023-11-08",
+      "daily_count": 2592,
+      "cumulative_count": 41744
+    },
+    {
+      "day_of_season": 40,
+      "date": "2023-11-09",
+      "daily_count": 2048,
+      "cumulative_count": 43792
+    },
+    {
+      "day_of_season": 41,
+      "date": "2023-11-10",
+      "daily_count": 1597,
+      "cumulative_count": 45389
+    },
+    {
+      "day_of_season": 42,
+      "date": "2023-11-11",
+      "daily_count": 2061,
+      "cumulative_count": 47450
+    },
+    {
+      "day_of_season": 43,
+      "date": "2023-11-12",
+      "daily_count": 1697,
+      "cumulative_count": 49147
+    },
+    {
+      "day_of_season": 44,
+      "date": "2023-11-13",
+      "daily_count": 1894,
+      "cumulative_count": 51041
+    },
+    {
+      "day_of_season": 45,
+      "date": "2023-11-14",
+      "daily_count": 1139,
+      "cumulative_count": 52180
+    },
+    {
+      "day_of_season": 46,
+      "date": "2023-11-15",
+      "daily_count": 1177,
+      "cumulative_count": 53357
+    },
+    {
+      "day_of_season": 47,
+      "date": "2023-11-16",
+      "daily_count": 809,
+      "cumulative_count": 54166
+    },
+    {
+      "day_of_season": 48,
+      "date": "2023-11-17",
+      "daily_count": 614,
+      "cumulative_count": 54780
+    },
+    {
+      "day_of_season": 49,
+      "date": "2023-11-18",
+      "daily_count": 351,
+      "cumulative_count": 55131
+    },
+    {
+      "day_of_season": 50,
+      "date": "2023-11-19",
+      "daily_count": 428,
+      "cumulative_count": 55559
+    },
+    {
+      "day_of_season": 51,
+      "date": "2023-11-20",
+      "daily_count": 287,
+      "cumulative_count": 55846
+    },
+    {
+      "day_of_season": 52,
+      "date": "2023-11-21",
+      "daily_count": 223,
+      "cumulative_count": 56069
+    },
+    {
+      "day_of_season": 53,
+      "date": "2023-11-22",
+      "daily_count": 132,
+      "cumulative_count": 56201
+    },
+    {
+      "day_of_season": 54,
+      "date": "2023-11-23",
+      "daily_count": 130,
+      "cumulative_count": 56331
+    },
+    {
+      "day_of_season": 55,
+      "date": "2023-11-24",
+      "daily_count": 123,
+      "cumulative_count": 56454
+    },
+    {
+      "day_of_season": 56,
+      "date": "2023-11-25",
+      "daily_count": 127,
+      "cumulative_count": 56581
+    },
+    {
+      "day_of_season": 57,
+      "date": "2023-11-26",
+      "daily_count": 59,
+      "cumulative_count": 56640
+    },
+    {
+      "day_of_season": 58,
+      "date": "2023-11-27",
+      "daily_count": 52,
+      "cumulative_count": 56692
+    },
+    {
+      "day_of_season": 59,
+      "date": "2023-11-28",
+      "daily_count": 52,
+      "cumulative_count": 56744
+    },
+    {
+      "day_of_season": 60,
+      "date": "2023-11-29",
+      "daily_count": 55,
+      "cumulative_count": 56799
+    },
+    {
+      "day_of_season": 61,
+      "date": "2023-11-30",
+      "daily_count": 47,
+      "cumulative_count": 56846
+    }
+  ],
+  "2024": [
+    {
+      "day_of_season": 1,
+      "date": "2024-10-01",
+      "daily_count": 36,
+      "cumulative_count": 36
+    },
+    {
+      "day_of_season": 2,
+      "date": "2024-10-02",
+      "daily_count": 24,
+      "cumulative_count": 60
+    },
+    {
+      "day_of_season": 3,
+      "date": "2024-10-03",
+      "daily_count": 23,
+      "cumulative_count": 83
+    },
+    {
+      "day_of_season": 4,
+      "date": "2024-10-04",
+      "daily_count": 32,
+      "cumulative_count": 115
+    },
+    {
+      "day_of_season": 5,
+      "date": "2024-10-05",
+      "daily_count": 24,
+      "cumulative_count": 139
+    },
+    {
+      "day_of_season": 6,
+      "date": "2024-10-06",
+      "daily_count": 27,
+      "cumulative_count": 166
+    },
+    {
+      "day_of_season": 7,
+      "date": "2024-10-07",
+      "daily_count": 37,
+      "cumulative_count": 203
+    },
+    {
+      "day_of_season": 8,
+      "date": "2024-10-08",
+      "daily_count": 34,
+      "cumulative_count": 237
+    },
+    {
+      "day_of_season": 9,
+      "date": "2024-10-09",
+      "daily_count": 45,
+      "cumulative_count": 282
+    },
+    {
+      "day_of_season": 10,
+      "date": "2024-10-10",
+      "daily_count": 34,
+      "cumulative_count": 316
+    },
+    {
+      "day_of_season": 11,
+      "date": "2024-10-11",
+      "daily_count": 43,
+      "cumulative_count": 359
+    },
+    {
+      "day_of_season": 12,
+      "date": "2024-10-12",
+      "daily_count": 56,
+      "cumulative_count": 415
+    },
+    {
+      "day_of_season": 13,
+      "date": "2024-10-13",
+      "daily_count": 64,
+      "cumulative_count": 479
+    },
+    {
+      "day_of_season": 14,
+      "date": "2024-10-14",
+      "daily_count": 105,
+      "cumulative_count": 584
+    },
+    {
+      "day_of_season": 15,
+      "date": "2024-10-15",
+      "daily_count": 191,
+      "cumulative_count": 775
+    },
+    {
+      "day_of_season": 16,
+      "date": "2024-10-16",
+      "daily_count": 217,
+      "cumulative_count": 992
+    },
+    {
+      "day_of_season": 17,
+      "date": "2024-10-17",
+      "daily_count": 274,
+      "cumulative_count": 1266
+    },
+    {
+      "day_of_season": 18,
+      "date": "2024-10-18",
+      "daily_count": 420,
+      "cumulative_count": 1686
+    },
+    {
+      "day_of_season": 19,
+      "date": "2024-10-19",
+      "daily_count": 591,
+      "cumulative_count": 2277
+    },
+    {
+      "day_of_season": 20,
+      "date": "2024-10-20",
+      "daily_count": 639,
+      "cumulative_count": 2916
+    },
+    {
+      "day_of_season": 21,
+      "date": "2024-10-21",
+      "daily_count": 792,
+      "cumulative_count": 3708
+    },
+    {
+      "day_of_season": 22,
+      "date": "2024-10-22",
+      "daily_count": 1127,
+      "cumulative_count": 4835
+    },
+    {
+      "day_of_season": 23,
+      "date": "2024-10-23",
+      "daily_count": 1104,
+      "cumulative_count": 5939
+    },
+    {
+      "day_of_season": 24,
+      "date": "2024-10-24",
+      "daily_count": 1176,
+      "cumulative_count": 7115
+    },
+    {
+      "day_of_season": 25,
+      "date": "2024-10-25",
+      "daily_count": 1595,
+      "cumulative_count": 8710
+    },
+    {
+      "day_of_season": 26,
+      "date": "2024-10-26",
+      "daily_count": 1523,
+      "cumulative_count": 10233
+    },
+    {
+      "day_of_season": 27,
+      "date": "2024-10-27",
+      "daily_count": 1644,
+      "cumulative_count": 11877
+    },
+    {
+      "day_of_season": 28,
+      "date": "2024-10-28",
+      "daily_count": 2345,
+      "cumulative_count": 14222
+    },
+    {
+      "day_of_season": 29,
+      "date": "2024-10-29",
+      "daily_count": 1924,
+      "cumulative_count": 16146
+    },
+    {
+      "day_of_season": 30,
+      "date": "2024-10-30",
+      "daily_count": 1108,
+      "cumulative_count": 17254
+    },
+    {
+      "day_of_season": 31,
+      "date": "2024-10-31",
+      "daily_count": 2316,
+      "cumulative_count": 19570
+    },
+    {
+      "day_of_season": 32,
+      "date": "2024-11-01",
+      "daily_count": 2043,
+      "cumulative_count": 21613
+    },
+    {
+      "day_of_season": 33,
+      "date": "2024-11-02",
+      "daily_count": 2067,
+      "cumulative_count": 23680
+    },
+    {
+      "day_of_season": 34,
+      "date": "2024-11-03",
+      "daily_count": 2296,
+      "cumulative_count": 25976
+    },
+    {
+      "day_of_season": 35,
+      "date": "2024-11-04",
+      "daily_count": 1970,
+      "cumulative_count": 27946
+    },
+    {
+      "day_of_season": 36,
+      "date": "2024-11-05",
+      "daily_count": 1982,
+      "cumulative_count": 29928
+    },
+    {
+      "day_of_season": 37,
+      "date": "2024-11-06",
+      "daily_count": 1120,
+      "cumulative_count": 31048
+    },
+    {
+      "day_of_season": 38,
+      "date": "2024-11-07",
+      "daily_count": 1326,
+      "cumulative_count": 32374
+    },
+    {
+      "day_of_season": 39,
+      "date": "2024-11-08",
+      "daily_count": 1782,
+      "cumulative_count": 34156
+    },
+    {
+      "day_of_season": 40,
+      "date": "2024-11-09",
+      "daily_count": 1241,
+      "cumulative_count": 35397
+    },
+    {
+      "day_of_season": 41,
+      "date": "2024-11-10",
+      "daily_count": 748,
+      "cumulative_count": 36145
+    },
+    {
+      "day_of_season": 42,
+      "date": "2024-11-11",
+      "daily_count": 729,
+      "cumulative_count": 36874
+    },
+    {
+      "day_of_season": 43,
+      "date": "2024-11-12",
+      "daily_count": 616,
+      "cumulative_count": 37490
+    },
+    {
+      "day_of_season": 44,
+      "date": "2024-11-13",
+      "daily_count": 622,
+      "cumulative_count": 38112
+    },
+    {
+      "day_of_season": 45,
+      "date": "2024-11-14",
+      "daily_count": 451,
+      "cumulative_count": 38563
+    },
+    {
+      "day_of_season": 46,
+      "date": "2024-11-15",
+      "daily_count": 339,
+      "cumulative_count": 38902
+    },
+    {
+      "day_of_season": 47,
+      "date": "2024-11-16",
+      "daily_count": 297,
+      "cumulative_count": 39199
+    },
+    {
+      "day_of_season": 48,
+      "date": "2024-11-17",
+      "daily_count": 245,
+      "cumulative_count": 39444
+    },
+    {
+      "day_of_season": 49,
+      "date": "2024-11-18",
+      "daily_count": 160,
+      "cumulative_count": 39604
+    },
+    {
+      "day_of_season": 50,
+      "date": "2024-11-19",
+      "daily_count": 110,
+      "cumulative_count": 39714
+    },
+    {
+      "day_of_season": 51,
+      "date": "2024-11-20",
+      "daily_count": 140,
+      "cumulative_count": 39854
+    },
+    {
+      "day_of_season": 52,
+      "date": "2024-11-21",
+      "daily_count": 103,
+      "cumulative_count": 39957
+    },
+    {
+      "day_of_season": 53,
+      "date": "2024-11-22",
+      "daily_count": 53,
+      "cumulative_count": 40010
+    },
+    {
+      "day_of_season": 54,
+      "date": "2024-11-23",
+      "daily_count": 74,
+      "cumulative_count": 40084
+    },
+    {
+      "day_of_season": 55,
+      "date": "2024-11-24",
+      "daily_count": 55,
+      "cumulative_count": 40139
+    },
+    {
+      "day_of_season": 56,
+      "date": "2024-11-25",
+      "daily_count": 49,
+      "cumulative_count": 40188
+    },
+    {
+      "day_of_season": 57,
+      "date": "2024-11-26",
+      "daily_count": 33,
+      "cumulative_count": 40221
+    },
+    {
+      "day_of_season": 58,
+      "date": "2024-11-27",
+      "daily_count": 28,
+      "cumulative_count": 40249
+    },
+    {
+      "day_of_season": 59,
+      "date": "2024-11-28",
+      "daily_count": 23,
+      "cumulative_count": 40272
+    },
+    {
+      "day_of_season": 60,
+      "date": "2024-11-29",
+      "daily_count": 52,
+      "cumulative_count": 40324
+    },
+    {
+      "day_of_season": 61,
+      "date": "2024-11-30",
+      "daily_count": 34,
+      "cumulative_count": 40358
+    }
+  ],
+  "2025": [
+    {
+      "day_of_season": 1,
+      "date": "2025-10-01",
+      "daily_count": 29,
+      "cumulative_count": 29
+    },
+    {
+      "day_of_season": 2,
+      "date": "2025-10-02",
+      "daily_count": 16,
+      "cumulative_count": 45
+    },
+    {
+      "day_of_season": 3,
+      "date": "2025-10-03",
+      "daily_count": 17,
+      "cumulative_count": 62
+    },
+    {
+      "day_of_season": 4,
+      "date": "2025-10-04",
+      "daily_count": 28,
+      "cumulative_count": 90
+    },
+    {
+      "day_of_season": 5,
+      "date": "2025-10-05",
+      "daily_count": 37,
+      "cumulative_count": 127
+    },
+    {
+      "day_of_season": 6,
+      "date": "2025-10-06",
+      "daily_count": 39,
+      "cumulative_count": 166
+    },
+    {
+      "day_of_season": 7,
+      "date": "2025-10-07",
+      "daily_count": 25,
+      "cumulative_count": 191
+    },
+    {
+      "day_of_season": 8,
+      "date": "2025-10-08",
+      "daily_count": 19,
+      "cumulative_count": 210
+    },
+    {
+      "day_of_season": 9,
+      "date": "2025-10-09",
+      "daily_count": 37,
+      "cumulative_count": 247
+    },
+    {
+      "day_of_season": 10,
+      "date": "2025-10-10",
+      "daily_count": 43,
+      "cumulative_count": 290
+    },
+    {
+      "day_of_season": 11,
+      "date": "2025-10-11",
+      "daily_count": 80,
+      "cumulative_count": 370
+    },
+    {
+      "day_of_season": 12,
+      "date": "2025-10-12",
+      "daily_count": 127,
+      "cumulative_count": 497
+    },
+    {
+      "day_of_season": 13,
+      "date": "2025-10-13",
+      "daily_count": 109,
+      "cumulative_count": 606
+    },
+    {
+      "day_of_season": 14,
+      "date": "2025-10-14",
+      "daily_count": 146,
+      "cumulative_count": 752
+    },
+    {
+      "day_of_season": 15,
+      "date": "2025-10-15",
+      "daily_count": 145,
+      "cumulative_count": 897
+    },
+    {
+      "day_of_season": 16,
+      "date": "2025-10-16",
+      "daily_count": 304,
+      "cumulative_count": 1201
+    },
+    {
+      "day_of_season": 17,
+      "date": "2025-10-17",
+      "daily_count": 388,
+      "cumulative_count": 1589
+    },
+    {
+      "day_of_season": 18,
+      "date": "2025-10-18",
+      "daily_count": 329,
+      "cumulative_count": 1918
+    },
+    {
+      "day_of_season": 19,
+      "date": "2025-10-19",
+      "daily_count": 529,
+      "cumulative_count": 2447
+    },
+    {
+      "day_of_season": 20,
+      "date": "2025-10-20",
+      "daily_count": 700,
+      "cumulative_count": 3147
+    },
+    {
+      "day_of_season": 21,
+      "date": "2025-10-21",
+      "daily_count": 710,
+      "cumulative_count": 3857
+    },
+    {
+      "day_of_season": 22,
+      "date": "2025-10-22",
+      "daily_count": 922,
+      "cumulative_count": 4779
+    },
+    {
+      "day_of_season": 23,
+      "date": "2025-10-23",
+      "daily_count": 191,
+      "cumulative_count": 4970
+    },
+    {
+      "day_of_season": 24,
+      "date": "2025-10-24",
+      "daily_count": 824,
+      "cumulative_count": 5794
+    },
+    {
+      "day_of_season": 25,
+      "date": "2025-10-25",
+      "daily_count": 1412,
+      "cumulative_count": 7206
+    },
+    {
+      "day_of_season": 26,
+      "date": "2025-10-26",
+      "daily_count": 1632,
+      "cumulative_count": 8838
+    },
+    {
+      "day_of_season": 27,
+      "date": "2025-10-27",
+      "daily_count": 1632,
+      "cumulative_count": 10470
+    },
+    {
+      "day_of_season": 28,
+      "date": "2025-10-28",
+      "daily_count": 1288,
+      "cumulative_count": 11758
+    },
+    {
+      "day_of_season": 29,
+      "date": "2025-10-29",
+      "daily_count": 1432,
+      "cumulative_count": 13190
+    },
+    {
+      "day_of_season": 30,
+      "date": "2025-10-30",
+      "daily_count": 1384,
+      "cumulative_count": 14574
+    },
+    {
+      "day_of_season": 31,
+      "date": "2025-10-31",
+      "daily_count": 2048,
+      "cumulative_count": 16622
+    },
+    {
+      "day_of_season": 32,
+      "date": "2025-11-01",
+      "daily_count": 2256,
+      "cumulative_count": 18878
+    },
+    {
+      "day_of_season": 33,
+      "date": "2025-11-02",
+      "daily_count": 1991,
+      "cumulative_count": 20869
+    },
+    {
+      "day_of_season": 34,
+      "date": "2025-11-03",
+      "daily_count": 2148,
+      "cumulative_count": 23017
+    },
+    {
+      "day_of_season": 35,
+      "date": "2025-11-04",
+      "daily_count": 1518,
+      "cumulative_count": 24535
+    },
+    {
+      "day_of_season": 36,
+      "date": "2025-11-05",
+      "daily_count": 1783,
+      "cumulative_count": 26318
+    },
+    {
+      "day_of_season": 37,
+      "date": "2025-11-06",
+      "daily_count": 1247,
+      "cumulative_count": 27565
+    },
+    {
+      "day_of_season": 38,
+      "date": "2025-11-07",
+      "daily_count": 1339,
+      "cumulative_count": 28904
+    },
+    {
+      "day_of_season": 39,
+      "date": "2025-11-08",
+      "daily_count": 1670,
+      "cumulative_count": 30574
+    },
+    {
+      "day_of_season": 40,
+      "date": "2025-11-09",
+      "daily_count": 1261,
+      "cumulative_count": 31835
+    },
+    {
+      "day_of_season": 41,
+      "date": "2025-11-10",
+      "daily_count": 1446,
+      "cumulative_count": 33281
+    },
+    {
+      "day_of_season": 42,
+      "date": "2025-11-11",
+      "daily_count": 1158,
+      "cumulative_count": 34439
+    },
+    {
+      "day_of_season": 43,
+      "date": "2025-11-12",
+      "daily_count": 1381,
+      "cumulative_count": 35820
+    },
+    {
+      "day_of_season": 44,
+      "date": "2025-11-13",
+      "daily_count": 814,
+      "cumulative_count": 36634
+    },
+    {
+      "day_of_season": 45,
+      "date": "2025-11-14",
+      "daily_count": 510,
+      "cumulative_count": 37144
+    },
+    {
+      "day_of_season": 46,
+      "date": "2025-11-15",
+      "daily_count": 570,
+      "cumulative_count": 37714
+    },
+    {
+      "day_of_season": 47,
+      "date": "2025-11-16",
+      "daily_count": 393,
+      "cumulative_count": 38107
+    },
+    {
+      "day_of_season": 48,
+      "date": "2025-11-17",
+      "daily_count": 458,
+      "cumulative_count": 38565
+    },
+    {
+      "day_of_season": 49,
+      "date": "2025-11-18",
+      "daily_count": 316,
+      "cumulative_count": 38881
+    },
+    {
+      "day_of_season": 50,
+      "date": "2025-11-19",
+      "daily_count": 244,
+      "cumulative_count": 39125
+    },
+    {
+      "day_of_season": 51,
+      "date": "2025-11-20",
+      "daily_count": 237,
+      "cumulative_count": 39362
+    },
+    {
+      "day_of_season": 52,
+      "date": "2025-11-21",
+      "daily_count": 221,
+      "cumulative_count": 39583
+    },
+    {
+      "day_of_season": 53,
+      "date": "2025-11-22",
+      "daily_count": 143,
+      "cumulative_count": 39726
+    },
+    {
+      "day_of_season": 54,
+      "date": "2025-11-23",
+      "daily_count": 95,
+      "cumulative_count": 39821
+    },
+    {
+      "day_of_season": 55,
+      "date": "2025-11-24",
+      "daily_count": 112,
+      "cumulative_count": 39933
+    },
+    {
+      "day_of_season": 56,
+      "date": "2025-11-25",
+      "daily_count": 53,
+      "cumulative_count": 39986
+    },
+    {
+      "day_of_season": 57,
+      "date": "2025-11-26",
+      "daily_count": 74,
+      "cumulative_count": 40060
+    },
+    {
+      "day_of_season": 58,
+      "date": "2025-11-27",
+      "daily_count": 61,
+      "cumulative_count": 40121
+    },
+    {
+      "day_of_season": 59,
+      "date": "2025-11-28",
+      "daily_count": 69,
+      "cumulative_count": 40190
+    },
+    {
+      "day_of_season": 60,
+      "date": "2025-11-29",
+      "daily_count": 26,
+      "cumulative_count": 40216
+    },
+    {
+      "day_of_season": 61,
+      "date": "2025-11-30",
+      "daily_count": 32,
+      "cumulative_count": 40248
+    }
+  ],
+  "2026": [
+    {
+      "day_of_season": 1,
+      "date": "2026-10-23",
+      "daily_count": 46,
+      "cumulative_count": 46
+    },
+    {
+      "day_of_season": 2,
+      "date": "2026-10-24",
+      "daily_count": 44,
+      "cumulative_count": 90
+    },
+    {
+      "day_of_season": 3,
+      "date": "2026-10-25",
+      "daily_count": 16,
+      "cumulative_count": 106
+    },
+    {
+      "day_of_season": 4,
+      "date": "2026-10-26",
+      "daily_count": 56,
+      "cumulative_count": 162
+    },
+    {
+      "day_of_season": 5,
+      "date": "2026-10-27",
+      "daily_count": 53,
+      "cumulative_count": 215
+    },
+    {
+      "day_of_season": 6,
+      "date": "2026-10-28",
+      "daily_count": 113,
+      "cumulative_count": 328
+    },
+    {
+      "day_of_season": 7,
+      "date": "2026-10-29",
+      "daily_count": 125,
+      "cumulative_count": 453
+    },
+    {
+      "day_of_season": 8,
+      "date": "2026-10-30",
+      "daily_count": 59,
+      "cumulative_count": 512
+    },
+    {
+      "day_of_season": 9,
+      "date": "2026-10-31",
+      "daily_count": 94,
+      "cumulative_count": 606
+    },
+    {
+      "day_of_season": 10,
+      "date": "2026-11-01",
+      "daily_count": 154,
+      "cumulative_count": 760
+    },
+    {
+      "day_of_season": 11,
+      "date": "2026-11-02",
+      "daily_count": 150,
+      "cumulative_count": 910
+    }
+  ]
+}

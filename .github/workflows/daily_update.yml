@@ -1,0 +1,67 @@
+name: ParaliWatch Daily Satellite Update Pipeline
+
+on:
+  schedule:
+    # Runs daily at 02:37 UTC (8:07 AM IST) - non-round hour to minimize API collision
+    - cron: '37 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-satellite-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline unit tests
+        run: |
+          python -m unittest discover tests
+
+      - name: Execute automated daily satellite data update
+        env:
+          FIRMS_MAP_KEY: ${{ secrets.FIRMS_MAP_KEY }}
+        run: |
+          python -u src/update_data.py
+
+      - name: Verify data integrity before commit
+        run: |
+          python -c "
+          import json, sys
+          from pathlib import Path
+          for f in ['summary.json', 'recent_fires.json', 'daily_activity.json', 'seasonal_comparison.json', 'weather.json', 'forecast_history.json']:
+              p = Path('public/data') / f
+              if not p.exists() or p.stat().st_size == 0:
+                  print(f'Critical failure: {f} is missing or empty', file=sys.stderr)
+                  sys.exit(1)
+              with open(p) as fp:
+                  json.load(fp)
+          print('All public data files verified.')
+          "
+
+      - name: Commit and push updated data artifacts
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ models/ public/data/
+          if git diff --staged --quiet; then
+            echo "No changes in data or models to commit."
+          else
+            git commit -m "chore(data): automated daily satellite fire update [skip ci]"
+            git push
+          fi

@@ -1,0 +1,54 @@
+{
+  "report_generated_at": "2026-11-04 11:28:25 UTC",
+  "model_architecture": {
+    "algorithm": "Ridge Regression (L2 Regularization)",
+    "regularization_strength_alpha": 1.5,
+    "target_transformation": "log1p(fire_count_{t+1}) -> expm1(y_pred)",
+    "validation_method": "Temporal season-based holdout (Seasons <= 2024 train, Season 2025 test)",
+    "features_used": [
+      "fire_count_today",
+      "lag_1",
+      "lag_2",
+      "day_of_season",
+      "temp_max",
+      "wind_speed_max",
+      "precip_sum",
+      "lag_3",
+      "rolling_mean_7d",
+      "temp_mean",
+      "precip_lag1"
+    ]
+  },
+  "test_season_evaluation": {
+    "model_mae": 265.89,
+    "model_rmse": 426.1,
+    "model_r2": 0.604,
+    "persistence_mae": 160.54,
+    "persistence_rmse": 253.05,
+    "rolling7d_mae": 264.59,
+    "rolling7d_rmse": 358.03,
+    "skill_vs_persistence": -0.656,
+    "skill_percentage": -65.6
+  },
+  "feature_coefficients": {
+    "fire_count_today": 0.747,
+    "lag_1": 0.3804,
+    "lag_2": 0.3555,
+    "day_of_season": -0.3503,
+    "temp_max": -0.3079,
+    "wind_speed_max": -0.0925,
+    "precip_sum": -0.0798,
+    "lag_3": 0.0741,
+    "rolling_mean_7d": -0.0706,
+    "temp_mean": -0.0356,
+    "precip_lag1": -0.0207
+  },
+  "prospective_scorecard": {
+    "total_predictions": 1,
+    "evaluated_predictions": 0,
+    "scorecard_mae_model": null,
+    "scorecard_mae_persistence": null,
+    "scorecard_skill": null
+  },
+  "scientific_honesty_statement": "Ridge Regression is a statistical regularized linear model. Skill scores are reported relative to the Persistence baseline (tomorrow equals today). Forecasts represent statistical expectations based on satellite lags and meteorological factors, not deterministic certainties. Atmospheric attenuation, cloud cover, and satellite overpass timing must be accounted for when interpreting fire detections."
+}

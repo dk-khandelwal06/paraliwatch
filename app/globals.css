@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #fcfaf7;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #f5f0e8;
+  --bg-surface-glass: rgba(255, 255, 255, 0.85);
+  --border-color: #e5ded5;
+  --border-color-subtle: #eee7de;
+  --text-primary: #19241c;
+  --text-secondary: #536357;
+  --text-muted: #829486;
+  --accent-green: #2e5b38;
+  --accent-amber: #d97706;
+  --accent-terracotta: #c25e3d;
+  --card-shadow: 0 4px 20px -2px rgba(46, 91, 56, 0.06), 0 2px 6px -1px rgba(0, 0, 0, 0.04);
+}
+
+.dark {
+  --bg-primary: #080f0b;
+  --bg-surface: #0f1c14;
+  --bg-surface-elevated: #16261c;
+  --bg-surface-glass: rgba(15, 28, 20, 0.85);
+  --border-color: #1e3325;
+  --border-color-subtle: #16281d;
+  --text-primary: #f1f5f2;
+  --text-secondary: #a3b8aa;
+  --text-muted: #6b8273;
+  --accent-green: #22c55e;
+  --accent-amber: #f59e0b;
+  --accent-terracotta: #f97316;
+  --card-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.4), 0 0 15px rgba(34, 197, 94, 0.04);
+}
+
+.dusk {
+  --bg-primary: #191c1a;
+  --bg-surface: #222724;
+  --bg-surface-elevated: #2c332f;
+  --bg-surface-glass: rgba(34, 39, 36, 0.88);
+  --border-color: #38423c;
+  --border-color-subtle: #2d3531;
+  --text-primary: #ede8df;
+  --text-secondary: #b0aba2;
+  --text-muted: #808681;
+  --accent-green: #5a8a68;
+  --accent-amber: #e09f3e;
+  --accent-terracotta: #d06d4b;
+  --card-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.35);
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  overflow-x: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Glassmorphism helpers */
+.glass-panel {
+  background: var(--bg-surface-glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border-color);
+}
+
+/* Satellite scanline animation effect */
+.satellite-grid {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(120, 150, 120, 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(120, 150, 120, 0.07) 1px, transparent 1px);
+}
+
+.dark .satellite-grid {
+  background-image: 
+    linear-gradient(to right, rgba(34, 197, 94, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(34, 197, 94, 0.08) 1px, transparent 1px);
+}
+
+.dusk .satellite-grid {
+  background-image: 
+    linear-gradient(to right, rgba(224, 159, 62, 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(224, 159, 62, 0.07) 1px, transparent 1px);
+}
+
+/* Leaflet map styles */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.75rem;
+  z-index: 10;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
