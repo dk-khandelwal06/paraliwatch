@@ -6,8 +6,16 @@
     "Sangrur",
     "Bathinda"
   ],
-  "latest_date": "2026-11-02",
+  "latest_date": "2026-11-01",
   "daily_regional": [
+    {
+      "date": "2026-09-28",
+      "temp_mean": 24.48,
+      "temp_max": 30.0,
+      "temp_min": 21.2,
+      "precip_sum": 5.64,
+      "wind_speed_max": 14.680000000000001
+    },
     {
       "date": "2026-09-29",
       "temp_mean": 26.080000000000002,
@@ -279,14 +287,6 @@
       "temp_min": 17.6,
       "precip_sum": 0.0,
       "wind_speed_max": 8.4
-    },
-    {
-      "date": "2026-11-02",
-      "temp_mean": 23.18,
-      "temp_max": 29.7,
-      "temp_min": 17.3,
-      "precip_sum": 0.0,
-      "wind_speed_max": 8.92
     }
   ],
   "station_details": {
