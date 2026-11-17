@@ -2,7 +2,7 @@
   "project": "ParaliWatch",
   "project_number": "007",
   "tagline": "A Self-Updating Satellite Fire Tracker for Punjab's Paddy-Residue Burning Season",
-  "pipeline_run_time": "2026-11-16 10:08:00 UTC",
+  "pipeline_run_time": "2026-11-17 11:04:19 UTC",
   "latest_observation_date": "2026-11-01",
   "satellite_sensor": "VIIRS_SNPP_NRT",
   "system_status": "OPERATIONAL",
@@ -16,7 +16,7 @@
     "rolling_7d_average": 93.4,
     "season_cumulative": 760,
     "total_all_seasons_recorded": 138212,
-    "latest_predicted_next_day": 115.3
+    "latest_predicted_next_day": 82.7
   },
   "integrity": {
     "server_side_credentials": true,
