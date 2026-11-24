@@ -2,7 +2,7 @@
   "model_name": "Ridge Regression",
   "model_version": "v1.2.0-VIIRS",
   "alpha": 1.5,
-  "trained_date": "2026-11-23 11:10:51 UTC",
+  "trained_date": "2026-11-24 12:53:48 UTC",
   "test_season": 2025,
   "test_sample_count": 61,
   "metrics": {
